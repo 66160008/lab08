@@ -24,6 +24,7 @@ class Blog {
             minute: "2-digit"
         });
     }
+    
 }
 
 class BlogManager {
